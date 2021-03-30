@@ -1,4 +1,4 @@
-# Landslide-Analysis
+# Landslide Analysis
 
 The following two tasks were implemented :
 1. A map of only landslides that have happened within India.
