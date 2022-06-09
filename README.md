@@ -1,5 +1,3 @@
-# Landslide Analysis
+# Data Visualization of Indian state statistics to look at viable areas of interest for CropHarvest
 
-The following two tasks were implemented :
-1. A map of only landslides that have happened within India.
-2. A plot showing the total number of landslides that have happened in India every year
+We made the statistic by averaging out population, hunger index, vulnerability index, and a few other statistics
